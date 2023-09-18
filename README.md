@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SugarCms<br>👯 I’m looking to collaborate on SugarBackend<br>🌱 I’m currently learning Go <br>⚡ Fun fact 2% of the world's population has green colored eyes.
+🔭 I’m currently working on Sugar<br>🌱 I’m currently learning Go <br>⚡ Fun fact 2% of the world's population has green colored eyes.
 
 
 ## 🌐 Socials:
