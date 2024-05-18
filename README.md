@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sugar<br>🌱 I’m currently learning Rust <br>⚡ I don't like bread 
+🔭Inactive <br>🌱 I’m currently learning system design <br>⚡ I don't like bread 
 
 
 ## 🌐 Socials:
