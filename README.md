@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Inactive <br>🌱 I’m currently learning system design <br>⚡ I don't like bread 
+ Computer 💻 & colors 🎨<br>🖌️Learning ui/ux 
 
 
 ## 🌐 Socials:
