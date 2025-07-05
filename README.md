@@ -11,8 +11,6 @@ I enjoy turning ideas into fast, clean, and functional apps—from UI design to 
 
 Check out my work 👉 [ahemtan.vercel.app](https://ahemtan.vercel.app)
 
----
-
 ## 🔗 Connect
 
 - GitHub: [Ahemtan](https://github.com/Ahemtan)
